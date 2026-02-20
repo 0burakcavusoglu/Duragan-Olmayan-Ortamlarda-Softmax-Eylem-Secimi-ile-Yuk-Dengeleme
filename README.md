@@ -1,7 +1,7 @@
 
 
 # Non-Stationary Load Balancing with Softmax Action Selection
-Hazırlayan: Burak Çavuşoğlu  Okul No=5230505068                                          
+Hazırlayan: Burak Çavuşoğlu  Yazılım Mühendisliği 3.sınıf Öğrencisi 5230505068                                     
 
 Ders: Algoritma Analizi ve Tasarımı
 
